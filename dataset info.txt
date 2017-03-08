@@ -10,7 +10,7 @@ This file contains an extract of all accounts created on our fictional system up
 
 * id			Unique identifier for an account record
 * name			Name of the account holder in the first name/last name format
-* gender			Gender of the account holder, M indcates male, F female
+* gender		Gender of the account holder, M indcates male, F female
 * age			Age of the account holder saved as an integer
 * creation_date		Indicates the date when the account was created, saved as an integer in YYYYMMDD format
 * iso_country_code	The country of the account holder, stored as a string two characters long.  Should conform to the iso standard
