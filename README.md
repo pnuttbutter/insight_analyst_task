@@ -22,9 +22,13 @@ The main focus is to try to tell a story using the data as succinctly as possibl
 The task is tool-agnostic, so feel free to use any applications/languages that you are comfortable with.  There are many open source & free to use applications out there, below is a brief list:
 
 Tableau Public - https://public.tableau.com/s/
+
 Google Sheets - https://www.google.co.uk/sheets/about/
+
 OpenOffice - https://www.openoffice.org/
+
 MySQL - https://www.oracle.com/mysql/index.html
+
 MS SQL Server - https://www.microsoft.com/Web/platform/database.aspx
 
 If you are struggling to access the datasets or have any questions, please get in contact with by emailing MarketingAnalytics@nature.com.
