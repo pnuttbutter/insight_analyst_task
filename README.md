@@ -2,7 +2,7 @@
 
 The aim of this task is to test two broad skills important for Insight Analysts:  Analysis & Communication.
 
-Analysis
+#Analysis
 There are two datasets to be analysed, both of which will need to be downloaded from a public Github repository (https://github.com/pnuttbutter/insight_analyst_task).  Please sign up to Github if you haven't previously done so.  A description of each dataset is also available within this repository.
 
 The analysis component may require checking & cleaning the data where data quality issues have been identified.  In order to get the most from the datasets they will need to be combined or linked together in some way.
