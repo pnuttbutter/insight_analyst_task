@@ -13,7 +13,7 @@ This file contains an extract of all accounts created on our fictional system up
 * gender		Gender of the account holder, M indcates male, F female
 * age			Age of the account holder saved as an integer
 * creation_date		Indicates the date when the account was created, saved as an integer in YYYYMMDD format
-* iso_country_code	The country of the account holder, stored as a string two characters long.  Should conform to the iso standard
+* region	The region of the account holder, selected from a drop-down list of regions, North America, South America, Europe, Africa, Asia Pacific
 * deletion_date		Indicates the date when the account was deleted, saved as a date.  If the date is not populated, this indicates that the account is still open
 * job_title		Job title of the account holder, selected from a drop-down list, saved as a string
 
