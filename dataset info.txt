@@ -21,8 +21,7 @@ This file contains an extract of all accounts created on our fictional system up
 
 This file contains an extract of all accesses to the website in 2015 & 2016.  Records are saved daily for each account holder, but only on days that the account holder visits the site.  It can be assumed that account holders only visit once a day.
 
-* account_holder	The identifier for the account holder
+* account_id	The identifier for the account holder
 * visit_date		The date of the account holder visit
 * page_views		The number of pages that the account holder viewed
-* visit_duration	The total duration of visit on that day in seconds
-* referrer		The source of the visit stored as string
+* traffic_source		The source of the visit stored as string, one of direct, social, marketing campaign or organic search
