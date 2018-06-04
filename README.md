@@ -28,4 +28,4 @@ The task is tool-agnostic, so feel free to use any applications/languages that y
 * MS SQL Server - https://www.microsoft.com/Web/platform/database.aspx
 
 ## Contact
-If you are struggling to access the datasets or have any questions, please get in contact with by emailing MarketingAnalytics@nature.com.
+If you are struggling to access the datasets or have any questions, please get in contact.
